@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: cn
 defaultContentLanguage: cn
-title: 余
+title: 余旬
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
